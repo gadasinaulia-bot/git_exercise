@@ -1,3 +1,3 @@
 function printArray(arr) {
-    console.log(arr);
+    console.log("John and Tim:", arr);
 }
